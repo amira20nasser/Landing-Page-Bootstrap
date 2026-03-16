@@ -28,6 +28,10 @@
      color: black;
  }
 
+ .contact-link {
+     color: #4f46e5;
+ }
+
  .icon-box {
      width: 60px;
      height: 60px;
@@ -44,4 +48,20 @@
      bottom: -5px;
      left: -5px;
      border-radius: 4px;
+ }
+
+ .projects {
+     background: #ffffff;
+     padding: 80px 0;
+     color: black;
+
+ }
+
+ .carousel-item {
+     height: 60vh;
+ }
+
+ .carousel-item img {
+     height: 100%;
+     object-fit: cover;
  }
