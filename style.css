@@ -1,0 +1,23 @@
+ body {
+     background: #1f2556;
+     color: white;
+     font-family: "Poppins" !important;
+ }
+
+
+ .hero {
+     min-height: 90vh;
+     display: flex;
+     align-items: center;
+ }
+
+ .btn-main {
+     background: #f2c86b;
+     border: none;
+     padding: 12px 25px;
+     border-radius: 30px;
+ }
+
+ .custom-fs {
+     font-size: 0.75rem;
+ }
